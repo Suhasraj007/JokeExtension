@@ -1,0 +1,30 @@
+body{
+    background-color: gainsboro;
+    width: 300px;
+    height: 300px;
+}
+
+p{
+    font-weight: bold;
+}
+
+button{
+    display: block;
+    color: black;
+    border: 1px solid black;
+    width: 190px;
+    height: 30px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.joke_container{
+    height: 100%;
+}
+
+.joke{
+    border: 2px solid black;
+    height: 85%;
+    width: 85%;
+    padding: 1rem;
+}
